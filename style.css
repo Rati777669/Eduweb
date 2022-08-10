@@ -1,14 +1,19 @@
-*{
-     padding: 0px;
-     margin:0px;
-     box-sizing: border-box;
-}
+
 html{
      scroll-behavior: smooth;
-
+     margin:0px;
+     padding:0px;
+     width:100%;
+     overflow-x: hidden;
 }
 body{
      font-family: sans-serif;
+     margin:0px;
+     padding:0px;
+     
+     width:100%;
+     overflow-x: hidden;
+
      
 }
 /*home*/
@@ -380,7 +385,7 @@ font-size: 50px;
 }
 #pricing
 {
-     background-color: rgb(223, 223, 223);
+     background-color: #e9eee95a;
 }
 .price
 { 
@@ -394,7 +399,7 @@ font-size: 50px;
 {
      width: 350px;
      height:380px;
-     color: #2B7A78;
+     color: #17252A;
      background-color: white;
      padding-top: 10%;
 
@@ -468,21 +473,38 @@ footer{
 }
 .main-content{
   display: flex;
+
 }
-.main-content .box{
-  flex-basis: 50%;
-  padding: 10px 20px;
+.box{
+  flex-basis: 25%;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top:20px;
+padding-left: 10px;
+  padding-bottom: 30px;
+ height: fit-content;
+ 
+  
 }
 .box h2{
   font-size: 1.125rem;
   font-weight: 600;
   text-transform: uppercase;
+
+  display: block;
+  text-align: center;
+  
+  
 }
 .box .content{
-  margin: 20px 0 0 0;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right:auto;
   position: relative;
-  background-color:#17252A ;
+  background-color: #17252A;
   color:white;
+  height:fit-content;
+  padding-top: 15px;
   
 }
 .box .content:before{
@@ -498,7 +520,7 @@ footer{
   position: absolute;
   content: '';
   height: 2px;
-  width: 15%;
+  width: 75%;
   background: #f8f5f5;
   top: -10px;
 }
@@ -526,7 +548,7 @@ footer{
 }
 .center .content .fas{
   font-size: 1.4375rem;
-  background: #17252A;
+  
   height: 45px;
   width: 45px;
   line-height: 45px;
@@ -534,16 +556,14 @@ footer{
   border-radius: 50%;
   transition: 0.3s;
   cursor: pointer;
-  color:white;
+  color:#18a7b9;
 }
 .fab{
-     color: white;
+     color: #18a7b9;
 }
-.social a:hover .fab{
-     background:#18a7b9;
-}
+
 .center .content .fas:hover{
-  background:#18a7b9;
+  background:white;
 }
 .center .content .text{
   font-size: 1.0625rem;
