@@ -11,3 +11,6 @@ It is a fully responsive educational website.
 
 #Footer
 ![#footer](https://github.com/Rati777669/Eduweb/blob/main/Image%209.jpg)
+
+SignUp page
+![#signup](https://github.com/Rati777669/Eduweb/blob/main/Image%2010.jpg)
