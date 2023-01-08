@@ -1,2 +1,2 @@
 # Eduweb
- It is an educational website
+It is a fully responsive website built with HTML, CSS and JavaScript.
