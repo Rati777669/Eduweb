@@ -10,6 +10,7 @@ It is a fully responsive educational website.
 ![#sections](https://github.com/Rati777669/Eduweb/blob/main/Image%205.jpg)
 
 ->Works
+
 ![#works](https://github.com/Rati777669/Eduweb/blob/main/Screenshot%20(42).png)
 
 -> Pricing table of courses
