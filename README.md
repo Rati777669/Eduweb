@@ -6,6 +6,7 @@ It is a fully responsive educational website.
 ![#Home](https://github.com/Rati777669/Eduweb/blob/main/Image%204.jpg)
 
 ->Works
+
 ![#sections](https://github.com/Rati777669/Eduweb/blob/main/Image%205.jpg)
 
 -> Pricing table of courses
@@ -13,6 +14,9 @@ It is a fully responsive educational website.
 ![#pricing](https://github.com/Rati777669/Eduweb/blob/main/Image%206.jpg)
 
 ->Team members
+
+![](https://github.com/Rati777669/Eduweb/blob/main/Screenshot%20(40).png)
+
 ![](https://github.com/Rati777669/Eduweb/blob/main/Screenshot%20(41).png)
 
 -> Footer
